@@ -59,11 +59,6 @@
 			<artifactId>logback-core</artifactId>
 			<version>1.2.11</version>
 		</dependency>
-		<dependency>
-			<groupId>org.yaml</groupId>
-			<artifactId>snakeyaml</artifactId>
-			<version>1.33</version>
-		</dependency>
 	</dependencies>
 
 	<build>
